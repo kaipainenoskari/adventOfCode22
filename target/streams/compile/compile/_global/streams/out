@@ -1,0 +1,52 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\oskar\adventOfCode22\Go.scala:23:12: '(' expected but identifier found.[0m
+[0m[[0m[31merror[0m] [0m[0m        if opp == 'A' then[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\oskar\adventOfCode22\Go.scala:24:16: '(' expected but identifier found.[0m
+[0m[[0m[31merror[0m] [0m[0m            if me == 'X' then[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\oskar\adventOfCode22\Go.scala:26:16: '(' expected but identifier found.[0m
+[0m[[0m[31merror[0m] [0m[0m            if me == 'Y' then[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\oskar\adventOfCode22\Go.scala:30:12: '(' expected but identifier found.[0m
+[0m[[0m[31merror[0m] [0m[0m        if opp == 'B' then[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\oskar\adventOfCode22\Go.scala:31:16: '(' expected but identifier found.[0m
+[0m[[0m[31merror[0m] [0m[0m            if me == 'X' then[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\oskar\adventOfCode22\Go.scala:33:16: '(' expected but identifier found.[0m
+[0m[[0m[31merror[0m] [0m[0m            if me == 'Y' then[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\oskar\adventOfCode22\Go.scala:35:16: '(' expected but identifier found.[0m
+[0m[[0m[31merror[0m] [0m[0m            if me == 'Z' then[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\oskar\adventOfCode22\Go.scala:38:12: '(' expected but identifier found.[0m
+[0m[[0m[31merror[0m] [0m[0m        if me == 'X' then[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\oskar\adventOfCode22\Go.scala:40:12: '(' expected but identifier found.[0m
+[0m[[0m[31merror[0m] [0m[0m        if me == 'Y' then[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\oskar\adventOfCode22\Go.scala:46:12: '(' expected but identifier found.[0m
+[0m[[0m[31merror[0m] [0m[0m        if opp == 'A' then[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\oskar\adventOfCode22\Go.scala:47:16: '(' expected but identifier found.[0m
+[0m[[0m[31merror[0m] [0m[0m            if winLose == 'X' then[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\oskar\adventOfCode22\Go.scala:49:16: '(' expected but identifier found.[0m
+[0m[[0m[31merror[0m] [0m[0m            if winLose == 'Y' then[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\oskar\adventOfCode22\Go.scala:52:12: '(' expected but identifier found.[0m
+[0m[[0m[31merror[0m] [0m[0m        if opp == 'B' then[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\oskar\adventOfCode22\Go.scala:53:16: '(' expected but identifier found.[0m
+[0m[[0m[31merror[0m] [0m[0m            if winLose == 'X' then[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\oskar\adventOfCode22\Go.scala:55:16: '(' expected but identifier found.[0m
+[0m[[0m[31merror[0m] [0m[0m            if winLose == 'Y' then[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\oskar\adventOfCode22\Go.scala:58:12: '(' expected but identifier found.[0m
+[0m[[0m[31merror[0m] [0m[0m        if winLose == 'X' then[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\oskar\adventOfCode22\Go.scala:60:12: '(' expected but identifier found.[0m
+[0m[[0m[31merror[0m] [0m[0m        if winLose == 'Y' then[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m17 errors found[0m
