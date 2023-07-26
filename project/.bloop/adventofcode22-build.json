@@ -212,7 +212,7 @@
         "platform": {
             "name": "jvm",
             "config": {
-                "home": "C:\\Users\\oskar\\Downloads\\Ohjelma-asennukset\\OpenJDK11U-jdk_x64_windows_hotspot_11.0.16.1_1\\jdk-11.0.16.1+1",
+                "home": "C:\\Program Files\\Java\\jre1.8.0_311",
                 "options": [
                     "-Duser.dir=C:\\Users\\oskar\\adventOfCode22\\project"
                 ]

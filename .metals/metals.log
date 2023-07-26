@@ -3222,3 +3222,8 @@ WARNING: Unmatched cancel notification for request id 4550
 2023.07.26 14:53:08 WARN  no build target for: C:\Users\oskar\adventOfCode22\day5\Day5.scala
 2023.07.26 14:53:51 WARN  no build target for: C:\Users\oskar\adventOfCode22\day5\Day5.scala
 2023.07.26 14:54:06 WARN  no build target for: C:\Users\oskar\adventOfCode22\day5\Day5.scala
+2023.07.26 15:00:18 INFO  Shutting down server
+2023.07.26 15:00:18 INFO  shutting down Metals
+2023.07.26 15:00:18 INFO  Shut down connection with build server.
+2023.07.26 15:00:18 INFO  Shut down connection with build server.
+2023.07.26 15:00:18 INFO  Exiting server
